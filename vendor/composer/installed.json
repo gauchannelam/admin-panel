@@ -1,0 +1,46 @@
+[
+    {
+        "name": "onokumus/metismenu",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/onokumus/metismenu.git",
+            "reference": "a6426303012e0be1f45c59131bea49dda49ad2a8"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/onokumus/metismenu/zipball/a6426303012e0be1f45c59131bea49dda49ad2a8",
+            "reference": "a6426303012e0be1f45c59131bea49dda49ad2a8",
+            "shasum": ""
+        },
+        "suggest": {
+            "components/jquery": ">=1.9"
+        },
+        "time": "2017-02-02 07:04:13",
+        "type": "library",
+        "installation-source": "source",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Osman Nuri Okumus",
+                "email": "onokumus@gmail.com",
+                "homepage": "http://onokumus.com"
+            }
+        ],
+        "description": "A jQuery menu plugin",
+        "homepage": "https://github.com/onokumus/metisMenu",
+        "keywords": [
+            "JS",
+            "bootstrap",
+            "css",
+            "jquery",
+            "menu",
+            "plugin",
+            "web"
+        ]
+    }
+]

@@ -1,5 +1,8 @@
 {
   "name": "da",
   "dependencies": {
+    "jquery": "~2.2.4",
+    "bootstrap": "^3.3.7",
+    "metisMenu": "~2.6.2"
   }
 }
